@@ -1,1 +1,1 @@
-/Users/kunal.dubey/Personal/rust_playground/hello_cargo/target/debug/hello_cargo: /Users/kunal.dubey/Personal/rust_playground/hello_cargo/src/main.rs
+/Users/kunaldubey/Learning/rust_playground/hello_cargo/target/debug/hello_cargo: /Users/kunaldubey/Learning/rust_playground/hello_cargo/src/main.rs
